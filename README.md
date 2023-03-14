@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junior%20Backend%20Developer&fontSize=60)
 
 
-<h1>Contact<\h1>
+<h1>Contact<
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:legeno09133@gmail.com)](mailto:legeno09133@gmail.com)
 
-<h1>Skills<\h1>
+<h1>Skills
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&color=brown&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 

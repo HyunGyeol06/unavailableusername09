@@ -23,7 +23,7 @@
    <br>
 
  
-![github stats](https://github-readme-stats.vercel.app/api?username=unavailableusername09)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unavailableusername09&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=HyunGyeol06)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunGyeol06&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=masterbeat)](https://solved.ac/masterbeat/)

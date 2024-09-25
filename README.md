@@ -12,14 +12,20 @@
   <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&color=brown&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/sql server-121150?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
    <br>
-    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/sinatra-000000?style=for-the-badge&logo=rubysinatra&logoColor=white">
+    <img src="https://img.shields.io/badge/ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/fast api-009688?style=for-the-badge&logo=fastapi&logoColor=white">
    <br>
 
  

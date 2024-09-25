@@ -23,5 +23,5 @@
    <br>
 
  
-![github stats](https://github-readme-stats.vercel.app/api?username=HyunGyeol06)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunGyeol06&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=Kade-Sung)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kade-Sung&layout=compact)

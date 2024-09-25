@@ -27,6 +27,9 @@
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/fast api-009688?style=for-the-badge&logo=fastapi&logoColor=white">
    <br>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<br>
 
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kade-Sung)
